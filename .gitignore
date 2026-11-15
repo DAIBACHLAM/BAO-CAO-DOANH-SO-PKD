@@ -1,0 +1,13 @@
+# Repo chỉ dùng để xuất bản báo cáo — KHÔNG BAO GIỜ đẩy dữ liệu nội bộ / token
+*.db
+*.db-*
+*.sqlite
+*.sqlite3
+*.sqlite-*
+.env
+.env.*
+data/
+settings*.json
+*token*
+*secret*
+node_modules/
